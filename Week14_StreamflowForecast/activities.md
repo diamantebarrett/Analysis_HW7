@@ -47,6 +47,7 @@ conda create -n hw7_forecast python=3.11
 conda activate hw7_forecast
 conda install <packages>
 pip install <pip-only package>
+
 ```
 
 **3. Export the `environment.yml`**

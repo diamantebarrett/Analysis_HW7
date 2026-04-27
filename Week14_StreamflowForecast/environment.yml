@@ -1,0 +1,11 @@
+name: hw7_forecast
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - hf_hydrodata
+  - pandas
+  - matplotlib
+  - numpy
